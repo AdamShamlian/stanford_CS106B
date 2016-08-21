@@ -1,0 +1,65 @@
+# Compiled Source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.slo
+*.lo
+*.obj
+*.app
+
+# Precompiled Headers #
+#######################
+*.gch
+*.pch
+
+# Compiled Dynamic Libs #
+#########################
+*.dylib
+
+# Compiled Static Libs #
+########################
+*.lai
+*.la
+*.a
+*.lib
+
+# Prereqs #
+###########
+*.d
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and Databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# Repo specific #
+#################
+# drop crap from builds
+# for the love of god i hope this works
+*/[a-zA-Z0-9-_]*Debug/
+*.pro
+*.pro.user
+*/lib/*
+*/output/*
+*/res/*
+*/src/readme.txt
+# the magic lines start here
+*.* 
+!.gitignore
+!/**/src/*.cpp
