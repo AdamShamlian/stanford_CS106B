@@ -12,7 +12,7 @@ Additionally, on the subject of posting homework solutions, this is entirely an
 exercise in the world of Git and CPP. If you are a student, I encourage you to work 
 through the exercises without consultation to this repo. [See Stanford's Honor Code.](https://communitystandards.stanford.edu/student-conduct-process/honor-code-and-fundamental-standard)
 In fact, I cannot guarantee that the solutions provided here are in what would be deemed a 
-complete form. [See the disclaimer and license.]()
+complete form. [See the disclaimer and license.](https://github.com/AdamShamlian/stanford_CS106B/blob/master/LICENSE.md)
 
 Moreover, I will gladly remove the repo in the event that this strictly 
 violates any Stanford policies, however, given the open nature of this particular course, 
